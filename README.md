@@ -1,5 +1,9 @@
 # 📊 Dashboard de Vendas — Xbox Game Pass
 
+![Dashboard Xbox Game Pass](imagens/dashboard.png)
+
+*Dashboard no Excel, com o filtro de tipo de assinatura (Subscription Type) aplicado em **Quarterly**.*
+
 ## Sobre o projeto
 
 Projeto desenvolvido como parte do **Bootcamp TOTVS — Fundamentos de Engenharia de Dados e Machine Learning**, na plataforma **DIO**, para o desafio de criação de um dashboard de vendas no Excel.
